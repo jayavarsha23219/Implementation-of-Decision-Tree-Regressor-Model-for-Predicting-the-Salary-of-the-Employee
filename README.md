@@ -58,12 +58,12 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-<img width="456" height="248" alt="image" src="https://github.com/user-attachments/assets/906dfe56-9e0b-4eb7-bebb-5dbffa10e525" />
+```<img width="456" height="248" alt="image" src="https://github.com/user-attachments/assets/906dfe56-9e0b-4eb7-bebb-5dbffa10e525" />
 <img width="425" height="237" alt="image" src="https://github.com/user-attachments/assets/acb7ce4d-c9d5-4437-a5a6-6c4ffd01421b" />
 <img width="297" height="228" alt="image" src="https://github.com/user-attachments/assets/622cf7c1-84a1-48ae-88dc-7df46704755e" />
 <img width="512" height="313" alt="image" src="https://github.com/user-attachments/assets/c0be6b78-7647-458e-a2c6-9df30c2ba841" />
 <img width="471" height="157" alt="image" src="https://github.com/user-attachments/assets/94df1436-1736-43ae-81a5-545212edeced" />
-<img width="632" height="107" alt="image" src="https://github.com/user-attachments/assets/236c5c43-7afc-4fec-b07b-0690ad834e8e" />
+<img width="632" height="107" alt="image" src="https://github.com/user-attachments/assets/236c5c43-7afc-4fec-b07b-0690ad834e8e" />```
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
